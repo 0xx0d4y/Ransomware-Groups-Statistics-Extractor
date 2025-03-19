@@ -70,3 +70,6 @@ python ransomware_group_statistics.py --group lockbit --format csv
 # To-Do
 
 - In the future, I intend to add other integration options with APIs from other platforms that provide information about the activities of Ransomware Groups.
+- Collect general information about the activities of Ransomware groups.
+    - Option to collect which countries are most affected each month.
+    - Option to collect which industries are most affected each month.
